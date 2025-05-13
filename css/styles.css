@@ -426,8 +426,8 @@ body {
 .borodinski-card-image {
   width: 310px;
   height: 290px;
-  background-image: url("/img/decorative/vectors/borodinski-logo.svg"),
-                    url("/img/decorative/borodinski-interer.png");
+  background-image: url("img/decorative/vectors/borodinski-logo.svg"),
+                    url("img/decorative/borodinski-interer.png");
   background-color: #000;
   background-repeat: no-repeat, no-repeat;
   background-position: 50% 50%, 0px 0px;
@@ -437,7 +437,7 @@ body {
 .device-card-image {
   width: 310px;
   height: 290px;
-  background-image: url("/img/decorative/vectors/device-logo.svg");
+  background-image: url("img/decorative/vectors/device-logo.svg");
   background-color: #ffe17f;
   background-repeat: no-repeat;
   background-position: 50% 50%;
@@ -447,8 +447,8 @@ body {
 .sedona-card-image {
   width: 310px;
   height: 290px;
-  background-image: url("/img/decorative/vectors/sedona-logo.svg"),
-                    url("/img/decorative/sedona-index-background.png");
+  background-image: url("img/decorative/vectors/sedona-logo.svg"),
+                    url("img/decorative/sedona-index-background.png");
   background-color: #97c1da;
   background-repeat: no-repeat, no-repeat;
   background-position: 50% 50%, 48% 20%;
